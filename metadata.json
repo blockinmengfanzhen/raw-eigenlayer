@@ -2,6 +2,6 @@
   "name": "test-eigenlayer-goerli",
   "website": "https://rpc.ankr.com/eth_goerli",
   "description": "test for eigenlayer with network goerli",
-  "log": "https://dappos-public-resource.s3.amazonaws.com/chainLogo/chain_56_icon.png",
+  "logo": "https://dappos-public-resource.s3.amazonaws.com/chainLogo/chain_56_icon.png",
   "twitter": "kongfuthor@gmail.com"
 }
