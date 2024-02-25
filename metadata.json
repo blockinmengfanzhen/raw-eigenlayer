@@ -1,7 +1,7 @@
 {
   "name": "test-eigenlayer-goerli",
-  "website": "",
-  "description": "",
-  "log": "",
-  "twitter": ""
+  "website": "https://rpc.ankr.com/eth_goerli",
+  "description": "test for eigenlayer with network goerli",
+  "log": "https://wallet.dappos.com/assets/logo-2d619cb6.svg",
+  "twitter": "kongfuthor@gmail.com"
 }
